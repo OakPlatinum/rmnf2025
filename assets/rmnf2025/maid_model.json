@@ -1,0 +1,25 @@
+{
+	"pack_name": "{maid_pack.rmnf2025.name}",
+	"model_list": [
+		{
+			"model_id": "rmnf2025:redmoon_01",
+			"description": ["{model.rmnf2025.redmoon_01.desc}"]
+		},
+		{
+			"model_id": "rmnf2025:redmoon_02",
+			"description": ["{model.rmnf2025.redmoon_02.desc}"]
+		},
+		{
+			"model_id": "rmnf2025:rluo_01",
+			"description": ["{model.rmnf2025.rluo_01.desc}"]
+		},
+		{
+			"model_id": "rmnf2025:anok_01",
+			"description": ["{model.rmnf2025.anok_01.desc}"]
+		}
+	],
+	"version": "0.8.4",
+	"author": ["OakPlatinum"],
+	"date": "2025-08-22",
+	"icon": "rmnf2025:textures/maid_icon.png"
+}

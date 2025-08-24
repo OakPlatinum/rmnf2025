@@ -1,0 +1,17 @@
+{
+	"pack_name": "{chair_pack.rmnf2025.name}",
+	"model_list": [
+		{
+			"model_id": "rmnf2025:crimson",
+			"animation": ["touhou_little_maid:animation/base/rotation/y_normal_speed.js", "touhou_little_maid:animation/base/float/default.js"],
+			"description": ["{model.rmnf2025.crimson.desc}"],
+			"tameable_can_ride": false,
+			"mounted_height": 7
+		}
+	],
+	"version": "0.8.4",
+	"icon": "rmnf2025:textures/chair_icon.png",
+	"author": ["OakPlatinum"],
+	"description": ["{chair_pack.rmnf2025.desc}"],
+	"date": "2025-08-22"
+}
